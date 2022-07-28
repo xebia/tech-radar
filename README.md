@@ -1,4 +1,10 @@
-# Motivation
+# Intro
+This project is a fork from the Zalando Tech radar, intended to model our own
+radars. See info below from the original readme.
+
+-------------------------
+
+## Motivation
 
 At [Zalando](http://zalando.de), we maintain a [public Tech
 Radar](http://zalando.github.io/tech-radar/) to help our engineering teams
