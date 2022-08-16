@@ -2,6 +2,9 @@
 This project is a fork from the Zalando Tech radar, intended to model our own
 radars. See info below from the original readme.
 
+## Ways of working with multiple colaborators
+This project is used to maintain multiple radars; each radar has his own html file where the content maintained. 
+
 -------------------------
 
 ## Motivation
